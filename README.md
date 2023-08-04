@@ -1,1 +1,1 @@
-# chess_clock
+# chess-clock
